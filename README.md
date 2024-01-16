@@ -15,5 +15,3 @@
         </td>
     <tr>
 </table>
-
- <img src="https://activity-graph.herokuapp.com/graph?username=chuiantw1212&&theme=vue" width="100%"/>
