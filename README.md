@@ -1,3 +1,5 @@
+# EN 的Javascript領域
+
 ## 開源財務規劃表
 
 1. 金融惠普：民眾可以快速建立生涯財務觀念，並提共<a href="https://econ-sense.com/calendar.html#%E8%81%AF%E7%B5%A1en">回饋意見</a>。
@@ -9,14 +11,20 @@
 </a>
 <hr>
 
-## Github states
-<table>
-    <tr>
-        <!-- <td>
-            <img  src="https://github-readme-stats.vercel.app/api?username=chuiantw1212&show_icons=true&theme=transparent">
-        </td> -->
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuiantw1212&theme=transparent&layout=compact">
-        </td>
-    <tr>
-</table>
+## 技術
+
+### 前端
+
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,vue,pinia,vuetify,nuxtjs,vite,bootstrap,md">
+
+### 後端
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,postman">
+
+## 雲服務與其他
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp,git,github,githubactions,npm,vscode,regex,windows,linux,">
+
+## Git歷史紀錄
+
+<img src="https://streak-stats.demolab.com/?user=Chuiantw1212&theme=dark">
