@@ -1,4 +1,4 @@
-# EN 的Javascript領域
+# EN Chu 的Javascript領域
 
 ## 開源財務規劃表
 
